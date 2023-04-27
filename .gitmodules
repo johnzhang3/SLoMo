@@ -1,0 +1,3 @@
+[submodule "src/legged_mpc_control"]
+	path = src/legged_mpc_control
+	url = https://github.com/RoboticExplorationLab/legged_mpc_control.git

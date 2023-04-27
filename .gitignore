@@ -1,0 +1,49 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+
+devel/
+logs/
+build/
+bags/
+bin/
+msg_gen/
+srv_gen/
+build_isolated/
+devel_isolated/
+.catkin_tools/
+.vscode/
+
+# Catkin custom files
+CATKIN_IGNORE

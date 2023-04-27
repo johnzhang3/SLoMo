@@ -5,8 +5,11 @@ This repository contains the code used for paper: "SLoMo: A General System for L
 
 [website](https://slomo-www.github.io/website/)
 
-submodules:
-1) PPR
-2) ContactImplicitMPC.jl/imitation
-3) legged control/imitation
+NOTE: This repo is under development. Please contact the authors for any questions.
+
+checklist:
+[ ] PPR 
+[ ] ContactImplicitMPC.jl/imitation
+[ ] legged control: repository for controlling robot hardware
+[ ] tutorial
 
