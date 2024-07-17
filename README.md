@@ -19,7 +19,7 @@ If you find our work useful, please consider citing our paper:
 @inproceedings{zhang_slomo_2023,
         title = {SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos},
         url = {https://ieeexplore.ieee.org/abstract/document/10246373},
-        author = {Zhang, John Z and Yang, Shuo and Yang, Gengshan and Bishop, Arun L and Gurumurthy, Swaminathan and Ramanan, Deva and Manchester, Zachary},
+        author = {Zhang, John Z. and Yang, Shuo and Yang, Gengshan and Bishop, Arun L. and Gurumurthy, Swaminathan and Ramanan, Deva and Manchester, Zachary},
         journal = {IEEE Robotics and Automation Letters},
         year = {2023}
 }
